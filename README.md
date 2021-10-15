@@ -1,1 +1,1 @@
-这是一个Android端的生成自定义Jar包并在项目中使用的demo
+这是一个Android端生成自定义Jar包并在项目中使用的demo
